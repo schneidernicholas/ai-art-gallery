@@ -95,18 +95,18 @@ Each of these images were generated purely by artificial intelligence, which pro
     <summary>Click to Explore Collection</summary>
 
 ## Star Wars
-![Star Wars](star-wars/star-wars.png)
-![Star Wars 2](star-wars/star-wars-2.png)
+![Star Wars](star-wars-collection/star-wars.png)
+![Star Wars 2](star-wars-collection/star-wars-2.png)
 ## Darth Vader
-![Darth Vader](star-wars/darth-vader.png)
-![Darth Vader 2](star-wars/darth-vader-2.png)
+![Darth Vader](star-wars-collection/darth-vader.png)
+![Darth Vader 2](star-wars-collection/darth-vader-2.png)
 ## Boba Fett
-![Boba Fett](star-wars/boba-fett.png)
+![Boba Fett](star-wars-collection/boba-fett.png)
 ## Death Star
-![Death Star](star-wars/death-star.png)
+![Death Star](star-wars-collection/death-star.png)
 ## Star Destroyer
-![Star Destroyer](star-wars/star-destroyer.png)
-![Star Destroyer 2](star-wars/star-destroyer-2.png)
+![Star Destroyer](star-wars-collection/star-destroyer.png)
+![Star Destroyer 2](star-wars-collection/star-destroyer-2.png)
 </details>
 
 # The Matrix Collection
@@ -114,9 +114,9 @@ Each of these images were generated purely by artificial intelligence, which pro
     <summary>Click to Explore Collection</summary>
     
 ## Matrix
-![Matrix](the-matrix/matrix.png)
-![Matrix 2](the-matrix/matrix-2.png)
-![Matrix 3](the-matrix/matrix-3.png)
+![Matrix](the-matrix-collection/matrix.png)
+![Matrix 2](the-matrix-collection/matrix-2.png)
+![Matrix 3](the-matrix-collection/matrix-3.png)
 </details>
 
 # Miscellaneous Collection
