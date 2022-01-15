@@ -10,10 +10,28 @@ Each of these images were generated purely by artificial intelligence, which pro
 
 ## Eternity
 ![Eternity](universe-collection/eternity.png)
+## The Milky Way
+![The Milky Way](universe-collection/the-milky-way.png)
 ## Cosmos
 ![Cosmos](universe-collection/cosmos.png)
+![Cosmos 2](universe-collection/cosmos-2.png)
+![Cosmos 3](universe-collection/cosmos-3.png)
 ## The Cosmos in the Style of Da Vinci
 ![The Cosmos in the Style of Da Vinci](universe-collection/the-cosmos-in-the-style-of-da-vinci.png)
+## The Universe in the Style of Da Vinci
+![The Universe in the Style of Da Vinci](universe-collection/the-universe-in-the-style-of-da-vinci.png)
+![The Universe in the Style of Da Vinci](universe-collection/the-universe-in-the-style-of-da-vinci-2.png)
+</details>
+
+# Planetary Collection
+<details>
+    <summary>Click to Explore Collection</summary>
+
+## Gaia
+![Gaia](planetary-collection/gaia.png)
+![Gaia 2](planetary-collection/gaia-2.png)
+![Gaia 3](planetary-collection/gaia-3.png)
+![Gaia 4](planetary-collection/gaia-4.png)
 </details>
 
 # Emotion & Meaning Collection
@@ -61,6 +79,44 @@ Each of these images were generated purely by artificial intelligence, which pro
     
 ## Artificial Intelligence and its Role in the Universe
 ![Artificial Intelligence and its Role in the Universe](artificial-intelligence-collection/artificial-intelligence-and-its-role-in-the-universe.png)
+</details>
+
+# Food Collection
+<details>
+    <summary>Click to Explore Collection</summary>
+    
+## Crispy Chicken Wings
+![Crispy Chicken Wings](food-collection/crispy-chicken-wings.png)
+![Crispy Chicken Wings 2](food-collection/crispy-chicken-wings-2.png)
+</details>
+
+# Star Wars Collection
+<details>
+    <summary>Click to Explore Collection</summary>
+
+## Star Wars
+![Star Wars](star-wars/star-wars.png)
+![Star Wars 2](star-wars/star-wars-2.png)
+## Darth Vader
+![Darth Vader](star-wars/darth-vader.png)
+![Darth Vader 2](star-wars/darth-vader-2.png)
+## Boba Fett
+![Boba Fett](star-wars/boba-fett.png)
+## Death Star
+![Death Star](star-wars/death-star.png)
+## Star Destroyer
+![Star Destroyer](star-wars/star-destroyer.png)
+![Star Destroyer 2](star-wars/star-destroyer-2.png)
+</details>
+
+# The Matrix Collection
+<details>
+    <summary>Click to Explore Collection</summary>
+    
+## Matrix
+![Matrix](the-matrix/matrix.png)
+![Matrix 2](the-matrix/matrix-2.png)
+![Matrix 3](the-matrix/matrix-3.png)
 </details>
 
 # Miscellaneous Collection
