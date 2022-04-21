@@ -9,7 +9,7 @@ There is currently no public license available for these pictures. If you are in
 
 # Universe Collection
 <details>
-    <summary>Click to Explore Collection</summary>
+    <summary markdown="span">Click to Explore Collection</summary>
 
 ## Eternity
 ![Eternity](universe-collection/eternity.png)
