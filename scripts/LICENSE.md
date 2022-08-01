@@ -1,4 +1,5 @@
 This license *ONLY* applies to https://github.com/schneidernicholas/ai-art-gallery/tree/main/scripts
+
 This license does *NOT* pertain to any of the images in this repository. Contact nicholas@icelabs.io
 for licensing agreements of the AI images.
 
