@@ -5,7 +5,7 @@
 Each of these images were generated purely by artificial intelligence, which produces unique results each time and does not rely on an algorithm for generation. Each one took approximately 6 hours to complete using my GPU. Some collections feature multiple editions of the art, either taken from different stages during generation or generated using the same phrase at a different time.
 
 ## Licensing & Use
-There is currently no public license available for these pictures. If you are interested in using any of them for something, please contact me and we can discuss licensing it to you. Do not redistribute or use without a license.
+There is currently no public license available for these pictures. If you are interested in using any of them for something, please contact me (nicholas@icelabs.io) and we can discuss licensing it to you. Do not redistribute or use without a license.
 
 # Universe Collection
 <details>
